@@ -1,0 +1,6 @@
+Ionut,Gaze,754.4
+Alex,Lumina,27.779999
+Mihai,Apa,85.34
+Cristina,Gunoi,33.0
+Mihaela,Internet,77.77
+Ionut,Telefon,34.78

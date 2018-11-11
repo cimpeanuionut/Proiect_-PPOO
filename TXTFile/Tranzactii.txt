@@ -1,0 +1,54 @@
+Ionut,TransferBancar,Ai transferat clientului tau urmatoarea suma: 20.0 RON
+Ionut,PlataFactura,Ai platit furnizorului tau urmatoarea suma: 12.0 RON
+Alex,TransferBancar,Ai transferat clientului tau urmatoarea suma: 12.0 RON
+Ionut,TransferBancar,Ai transferat clientului tau urmatoarea suma: 15.0 RON
+Ionut,PlataFactura,Ai platit furnizorului tau urmatoarea suma: 10.0 RON
+Mihai,TransferBancar,Ai transferat clientului tau urmatoarea suma: 1.5 RON
+Ionut,PlataFactura,Ai platit furnizorului tau urmatoarea suma: 12.0 RON
+Ionut,TransferBancar,Ai transferat clientului tau urmatoarea suma: 12.0 RON
+Alex,PlataFactura,Ai platit furnizorului tau urmatoarea suma: 1.0 RON
+Ionut,InterogareSold,Sold-ul curent a fost de: 656.68005 RON
+Alex,InterogareSold,Sold-ul curent a fost de: 751.0 RON
+Alex,InterogareSold,Sold-ul curent a fost de: 751.0 RON
+Ionut,TransferBancar,Ai transferat clientului tau urmatoarea suma: 1.0 RON
+Ionut,InterogareSold,Sold-ul curent a fost de: 655.68005 RON
+Alex,InterogareSold,Sold-ul curent a fost de: 751.0 RON
+
+Alex,TransferBancar,Ai transferat clientului tau urmatoarea suma: 12.0 RON
+
+Ionut,PlataFactura,Ai platit furnizorului tau urmatoarea suma: 10.0 RON
+
+Ionut,PlataFactura,Ai platit furnizorului tau urmatoarea suma: 10.0 RON
+Ionut,InterogareSold,Sold-ul curent a fost de: 582.68005 RON
+
+Ionut,PlataFactura,Ai platit furnizorului tau urmatoarea suma: 2.0 RON
+
+Ionut,PlataFactura,Ai platit furnizorului tau urmatoarea suma: 1.0 RON
+
+Ionut,SchimbareParola,Noua ta parola este: 1
+
+Ionut,SchimbareParola,Noua ta parola este: 1234
+
+Ionut,InterogareSold,Sold-ul curent a fost de: 579.68005 RON
+
+Alex,PlataFactura,Ai platit furnizorului tau urmatoarea suma: 1.0 RON
+
+Alex,PlataFactura,Ai platit furnizorului tau urmatoarea suma: 1.0 RON
+
+Alex,PlataFactura,Ai platit furnizorului tau urmatoarea suma: 1.0 RON
+
+Alex,InterogareSold,Sold-ul curent a fost de: 724.0 RON
+
+Alex,PlataFactura,Ai platit furnizorului tau urmatoarea suma: 1.0 RON
+
+Alex,PlataFactura,Ai platit furnizorului tau urmatoarea suma: 1.0 RON
+
+Alex,SchimbareParola,Noua ta parola este: 789
+
+Alex,SchimbareParola,Noua ta parola este: 7890
+
+Alex,PlataFactura,Ai platit furnizorului tau urmatoarea suma: 2.0 RON
+
+Alex,PlataFactura,Ai platit furnizorului tau urmatoarea suma: 1.0 RON
+
+Alex,PlataFactura,Ai platit furnizorului tau urmatoarea suma: 1.0 RON
